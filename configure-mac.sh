@@ -15,3 +15,8 @@ brew cask install 1password
 brew cask install spectacle
 brew cask install visual-studio-code
 brew cask install firefox
+
+# // Create symbolic links to iCloud docs and git directories in home folder
+
+ln -s ~/Library/Mobile\ Documents/com~apple~CloudDocs/ ~/icloud
+ln -s ~/Library/Mobile\ Documents/com~apple~CloudDocs/git git
