@@ -1,3 +1,4 @@
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 brew update
 brew install git
@@ -7,6 +8,7 @@ brew install terraform
 brew install azure-cli
 brew install wget
 brew install imagemagick
+brew cask install iterm2
 brew cask install docker
 brew cask install atom
 brew cask install alfred
