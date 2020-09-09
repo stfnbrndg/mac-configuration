@@ -5,6 +5,8 @@ brew install python3
 brew install ansible
 brew install terraform
 brew install azure-cli
+brew install wget
+brew install imagemagick
 brew cask install docker
 brew cask install atom
 brew cask install alfred
