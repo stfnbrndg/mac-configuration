@@ -17,6 +17,7 @@ brew cask install balenaetcher
 brew cask install powershell
 brew cask install 1password
 brew cask install spectacle
+brew cask install termius
 brew cask install visual-studio-code
 brew cask install firefox
 
